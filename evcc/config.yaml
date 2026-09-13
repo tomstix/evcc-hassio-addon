@@ -54,7 +54,7 @@ ports_description:
   8899/udp: "Modbus UDP"
   9522/udp: "SMA Speedwire Multicast"
 
-image: evcc/evcc
+image: tomstix/evcc
 
 options: 
   sqlite_file: /data/evcc.db
